@@ -315,5 +315,613 @@
   {
     "id": "D0vR6YNRCww",
     "title": "How to defend against denial-of-service attacks with Azure DDoS Protection | Azure Friday"
+  },
+  {
+    "id": "6TE0LovKQa4",
+    "title": "2024 Cybersecurity Trends"
+  },
+  {
+    "id": "9nrE4t4-IXA",
+    "title": "Passwords vs. Passkeys - FIDO Bites Back!"
+  },
+  {
+    "id": "inWWhr5tnEA",
+    "title": "Cyber Security In 7 Minutes | What Is Cyber Security: How It Works? | Cyber Security | Simplilearn"
+  },
+  {
+    "id": "_nSHsb5xKPo",
+    "title": "Governments don't understand cyber warfare. We need hackers | Rodrigo Bijou"
+  },
+  {
+    "id": "0SkdP36wiAU",
+    "title": "Lorrie Faith Cranor: What's wrong with your pa$$w0rd?"
+  },
+  {
+    "id": "-E97Kgi0sR4",
+    "title": "Marc Goodman: A vision of crimes in the future"
+  },
+  {
+    "id": "erCAp_Bd0AQ",
+    "title": "Hackers: the internet's immune system | Keren Elazari"
+  },
+  {
+    "id": "cWpRxyqDgpM",
+    "title": "Chris Domas: The 1s and 0s behind cyber warfare"
+  },
+  {
+    "id": "6gSwRHScq6M",
+    "title": "Misha Glenny: Hire the hackers!"
+  },
+  {
+    "id": "66-mr600NjU",
+    "title": "Avi Rubin: All your devices can be hacked"
+  },
+  {
+    "id": "FqrLUtIFVjs",
+    "title": "Where is cybercrime really coming from? | Caleb Barlow"
+  },
+  {
+    "id": "cf3zxHuSM2Y",
+    "title": "Mikko Hypponen: Fighting viruses, defending the net"
+  },
+  {
+    "id": "_ZW-8-NCKMw",
+    "title": "Your smartphone is a civil rights issue | Christopher Soghoian"
+  },
+  {
+    "id": "hqKafI7Amd8",
+    "title": "Top hacker shows us how it's done | Pablos Holman | TEDxMidwest"
+  },
+  {
+    "id": "9CqVYUOjHLw",
+    "title": "How the NSA betrayed the world's trust -- time to act | Mikko Hypponen"
+  },
+  {
+    "id": "zI0_fSD6GPY",
+    "title": "Guy-Philippe Goldstein: How cyberattacks threaten real-world peace"
+  },
+  {
+    "id": "fSErHToV8IU",
+    "title": "James Lyne: Everyday cybercrime -- and what you can do about it"
+  },
+  {
+    "id": "4E_1AB1rsSw",
+    "title": "How tech companies deceive you into giving up your data and privacy | Finn Lützow-Holm Myrstad"
+  },
+  {
+    "id": "BSsIBuUAVU4",
+    "title": "Bruce Schneier -Cyberweek 2018"
+  },
+  {
+    "id": "q7zYnGjvpwc",
+    "title": "Can We Make Encryption That's \"Unbreakable?\" | John Prisco | TEDxMidAtlantic"
+  },
+  {
+    "id": "2aHkqB2-46k",
+    "title": "Lecture 1: Introduction to Cryptography by Christof Paar"
+  },
+  {
+    "id": "NuyzuNBFWxQ",
+    "title": "7 Cryptography Concepts EVERY Developer Should Know"
+  },
+  {
+    "id": "S9JGmA5_unY",
+    "title": "How secure is 256 bit security?"
+  },
+  {
+    "id": "bBC-nXj3Ng4",
+    "title": "But how does bitcoin actually work?"
+  },
+  {
+    "id": "_160oMzblY8",
+    "title": "Blockchain 101 - A Visual Demo"
+  },
+  {
+    "id": "yLf2jRY39Rc",
+    "title": "FREE CompTIA Security+ Course // SY0-501 vs SY0-601 // EP 0"
+  },
+  {
+    "id": "vyqSdJLVQgg",
+    "title": "3 Hacking Skills EVERYONE has // FREE Security+ // EP 1"
+  },
+  {
+    "id": "_Nj0quZq4GE",
+    "title": "Dropping the DoS BOMB! Security+ series sneak peak COMING SOON..."
+  },
+  {
+    "id": "u9dBGWVwMMA",
+    "title": "Phishing attacks are SCARY easy to do!! (let me show you!) // FREE Security+ // EP 2"
+  },
+  {
+    "id": "HfPKe98UqEI",
+    "title": "i hacked my grandma (social engineering and pretexting) // FREE Security+ // EP 3"
+  },
+  {
+    "id": "UydNRZp_fmk",
+    "title": "your favorite websites can be HACKED! (watering holes, typo squatting) // FREE Security+ // EP 4"
+  },
+  {
+    "id": "XYpJhhJOJSs",
+    "title": "my beard isn't real // FREE Security+ // EP 5"
+  },
+  {
+    "id": "Q2ErfVPomFQ",
+    "title": "you're about to get hacked!! (7 reasons why) // FREE Security+ // EP 6"
+  },
+  {
+    "id": "bmIVWe3Cux8",
+    "title": "Smart Home Tech I ACTUALLY Use!"
+  },
+  {
+    "id": "Qxe68ExM148",
+    "title": "Smart Home Technologies: Applications and Benefits"
+  },
+  {
+    "id": "IC0mkHh7MaA",
+    "title": "What is a Smart Home or Smart Building?"
+  },
+  {
+    "id": "0rIvB3LZiKA",
+    "title": "I built a smarter smart home"
+  },
+  {
+    "id": "L23JPc9h3nc",
+    "title": "Inside Ikea's big bet on smart home tech"
+  },
+  {
+    "id": "Zm9AGaEBZAU",
+    "title": "Smart Home For Beginners - Technologies"
+  },
+  {
+    "id": "UmpDXc3cXbU",
+    "title": "Smart Home Protocols: ZigBee Explained!"
+  },
+  {
+    "id": "k2qOh1O5tug",
+    "title": "Smart Home Protocols: Z-Wave Explained!"
+  },
+  {
+    "id": "v8-VNIQQiQE",
+    "title": "Z-Wave vs. Zigbee vs. Wi-Fi! Smart Home Basics: How To Pick The Right Protocol"
+  },
+  {
+    "id": "cH46z4ElJ6o",
+    "title": "Z-Wave vs. Zigbee: understanding home automation protocols"
+  },
+  {
+    "id": "PdGINB3JLWs",
+    "title": "Finally! The PERFECT Hub With Apple HomeKit"
+  },
+  {
+    "id": "awhqnSskWjU",
+    "title": "Cybersecurity Threats | Types of Cybersecurity Threats | Invensis Learning"
+  },
+  {
+    "id": "VNp35Uw_bSM",
+    "title": "Cybersecurity Threat Hunting Explained"
+  },
+  {
+    "id": "TAaRA4ctRL4",
+    "title": "SIEM, EDR, XDR, MDR & SOAR | Cybersecurity Tools and Services | Threat Monitoring"
+  },
+  {
+    "id": "DPoxo2_fiH4",
+    "title": "SIEM, EDR, XDR, SOAR Explained in 7 Minutes"
+  },
+  {
+    "id": "HlfRTCcgPR8",
+    "title": "Bitdefender GravityZone XDR - Explained in 5 Minutes"
+  },
+  {
+    "id": "rQ1catPwQ0s",
+    "title": "Bitdefender GravityZone XDR - How to unify alerts & and simplify organization-wide Investigations"
+  },
+  {
+    "id": "Dk-ZqQ-bfy4",
+    "title": "8 Most Common Cybersecurity Threats | Types of Cyber Attacks | Cybersecurity for Beginners | Edureka"
+  },
+  {
+    "id": "_jKylhJtPmI",
+    "title": "Hacking Websites with SQL Injection - Computerphile"
+  },
+  {
+    "id": "55GaIolVVqI",
+    "title": "What is Endpoint Detection and Response (EDR)?"
+  },
+  {
+    "id": "8ZlHOZlNIKk",
+    "title": "EDR vs. EPP vs. NGAV"
+  },
+  {
+    "id": "SFFdbeogLFc",
+    "title": "What is XDR vs EDR vs MDR? Breaking down Extended Detection and Response"
+  },
+  {
+    "id": "DLQAbJm4gFM",
+    "title": "What is Zero Trust Network Access (ZTNA)? The Zero Trust Model, Framework and Technologies Explained"
+  },
+  {
+    "id": "Opy9D-8eyVg",
+    "title": "What is Secure Access Service Edge (SASE) ?"
+  },
+  {
+    "id": "qLL3RG1QERM",
+    "title": "Mitre ATT&CK: The Framework and Why You Should Use it | 2022"
+  },
+  {
+    "id": "yuXK_Jyosus",
+    "title": "Secure Protocols - SY0-601 CompTIA Security+ : 3.1"
+  },
+  {
+    "id": "eEdD30nYm_k",
+    "title": "Endpoint Protection - SY0-601 CompTIA Security+ : 3.2"
+  },
+  {
+    "id": "XqtqbJ0nMVY",
+    "title": "Boot Integrity - SY0-601 CompTIA Security+ : 3.2"
+  },
+  {
+    "id": "e0NKk-SSO2o",
+    "title": "Database Security - SY0-601 CompTIA Security+ : 3.2"
+  },
+  {
+    "id": "hExRDVZHhig",
+    "title": "SSL, TLS, HTTP, HTTPS Explained"
+  },
+  {
+    "id": "QOtA76ga_fY",
+    "title": "13. Network Protocols"
+  },
+  {
+    "id": "zd0U1zNBYNk",
+    "title": "Network Security Model"
+  },
+  {
+    "id": "y3FwdNmbWeM",
+    "title": "Why Security Protocols"
+  },
+  {
+    "id": "znIjk-7ZuqI",
+    "title": "What are Network Protocols? Here's Why They're Important"
+  },
+  {
+    "id": "_nVq7f26-Uo",
+    "title": "The Five Laws of Cybersecurity | Nick Espinosa | TEDxFondduLac"
+  },
+  {
+    "id": "P6SZLcGE4us",
+    "title": "Top 8 Most Popular Network Protocols Explained"
+  },
+  {
+    "id": "6_Cxj5WKpIw",
+    "title": "Cryptography"
+  },
+  {
+    "id": "Xb4_VT4y9kQ",
+    "title": "Cryptography - Key Terms"
+  },
+  {
+    "id": "Kejs-saINOo",
+    "title": "Cryptanalysis"
+  },
+  {
+    "id": "AQDCe585Lnc",
+    "title": "Asymmetric Encryption - Simply explained"
+  },
+  {
+    "id": "GSIDS_lvRv4",
+    "title": "Public Key Cryptography - Computerphile"
+  },
+  {
+    "id": "NmM9HA2MQGI",
+    "title": "Secret Key Exchange (Diffie-Hellman) - Computerphile"
+  },
+  {
+    "id": "jkV1KEJGKRA",
+    "title": "End to End Encryption (E2EE) - Computerphile"
+  },
+  {
+    "id": "wlSG3pEiQdc",
+    "title": "Securing Stream Ciphers (HMAC) - Computerphile"
+  },
+  {
+    "id": "7MT1F0O3_Yw",
+    "title": "DNS Cache Poisoning - Computerphile"
+  },
+  {
+    "id": "_5NQf8k3Jo0",
+    "title": "What is Quantum Cryptography? An Introduction"
+  },
+  {
+    "id": "jhXCTbFnK8o",
+    "title": "Cryptography: Crash Course Computer Science #33"
+  },
+  {
+    "id": "z-EtmaFJieY",
+    "title": "Machine Learning & Artificial Intelligence: Crash Course Computer Science #34"
+  },
+  {
+    "id": "-4E2-0sxVUM",
+    "title": "Computer Vision: Crash Course Computer Science #35"
+  },
+  {
+    "id": "yubzJw0uiE4",
+    "title": "Blockchain In 7 Minutes | What Is Blockchain | Blockchain Explained|How Blockchain Works|Simplilearn"
+  },
+  {
+    "id": "SSo_EIwHSd4",
+    "title": "How does a blockchain work - Simply Explained"
+  },
+  {
+    "id": "ZE2HxTmxfrI",
+    "title": "Smart contracts - Simply Explained"
+  },
+  {
+    "id": "M3EFi_POhps",
+    "title": "Proof-of-Stake (vs proof-of-work)"
+  },
+  {
+    "id": "OcmvMs4AMbM",
+    "title": "Zero Knowledge Proof - ZKP"
+  },
+  {
+    "id": "XCo6yyutYAM",
+    "title": "What is a Bitcoin hard fork? Simply Explained!"
+  },
+  {
+    "id": "lg5ikF8k6yc",
+    "title": "How To Become A Blockchain Developer In 2023?"
+  },
+  {
+    "id": "_GzE99AmAQU",
+    "title": "Hackers & Cyber Attacks: Crash Course Computer Science #32"
+  },
+  {
+    "id": "uTAaFExLgwQ",
+    "title": "the hacker's roadmap (how to get started in IT in 2023)"
+  },
+  {
+    "id": "4CuXNs6SboU",
+    "title": "Careers in Cybersecurity"
+  },
+  {
+    "id": "QIwqGVfzpn0",
+    "title": "【home automation training -3】Make a smart power distribution box"
+  },
+  {
+    "id": "7oQe_qsLXlo",
+    "title": "【home automation training -4】Install Home Assistant OS by eMMC"
+  },
+  {
+    "id": "U2VQvUMTD30",
+    "title": "【home automation training -5】Add-on Samba and file structure of home assistant"
+  },
+  {
+    "id": "1a5p-nKpoAo",
+    "title": "【home automation training -6】Configure integration of home assistant"
+  },
+  {
+    "id": "41XzRKefoDE",
+    "title": "【home automation training -8】install Mosquitto broker on home assistant"
+  },
+  {
+    "id": "uJnPXZbRZDQ",
+    "title": "Home Assistant 3D dashboard for Smart Power Distribution Box"
+  },
+  {
+    "id": "pZxWb21WvT0",
+    "title": "how to add Zigbee3.0 IoT products to home assistant by ZHA"
+  },
+  {
+    "id": "UUmzUyc_GHY",
+    "title": "how to study RF signal and send it in home assistant by ESPHome"
+  },
+  {
+    "id": "Mx7AAE__pvM",
+    "title": "OWASP Automated Threats Explained - Spamming"
+  },
+  {
+    "id": "pYIE3mJpPYw",
+    "title": "OWASP Automated Threats Explained - Fingerprinting, Footprinting, and Vulnerability Scanning "
+  },
+  {
+    "id": "DFANIs0CugI",
+    "title": "OWASP Automated Threats Explained - Credential Cracking | Credential Stuffing "
+  },
+  {
+    "id": "jPCZhkE0XHA",
+    "title": "OWASP Automated Threats Explained - Carding, Card Cracking and Cashing Out"
+  },
+  {
+    "id": "VrAntx5zsyY",
+    "title": "OWASP Automated Threats Explained - Scraping, Denial of Service and Skewing"
+  },
+  {
+    "id": "l0JXdUN87VM",
+    "title": "The 10 Most Common Web Application Security Threats (OWASP Top 10)"
+  },
+  {
+    "id": "9MkL1CfKdag",
+    "title": "OWASP Top Ten: Web Application Security Risks and Vulnerabilities"
+  },
+  {
+    "id": "4YOpILi9Oxs",
+    "title": "7 Security Risks and Hacking Stories for Web Developers "
+  },
+  {
+    "id": "nIWBp_nvzq4",
+    "title": "Broken Object Level Authorization - 2023 OWASP Top 10 API Security Risks"
+  },
+  {
+    "id": "mJGaovPEU_4",
+    "title": "Broken Authentication - 2023 OWASP Top 10 API Security Risks"
+  },
+  {
+    "id": "IRz28m-syjM",
+    "title": "Broken Object Property Level Authorization - 2023 OWASP Top 10 API Security Risks"
+  },
+  {
+    "id": "N7dDsM2peeU",
+    "title": "Unrestricted Resource Consumption - 2023 OWASP Top 10 API Security Risks"
+  },
+  {
+    "id": "hrwhRWILFvk",
+    "title": "Broken Function Level Authorization - 2023 OWASP Top 10 API Security Risks"
+  },
+  {
+    "id": "vX4oZyjHKgI",
+    "title": "Unrestricted Access to Sensitive Business Flows - 2023 OWASP Top 10 API Security Risks"
+  },
+  {
+    "id": "gdL8nHR1hkY",
+    "title": "Server Side Request Forgery - 2023 OWASP Top 10 API Security Risks"
+  },
+  {
+    "id": "PX-PkTciDdM",
+    "title": "Security Misconfiguration - 2023 OWASP Top 10 API Security Risks"
+  },
+  {
+    "id": "Pfw7Gp0BCjM",
+    "title": "Improper Inventory Management - 2023 OWASP Top 10 API Security Risks"
+  },
+  {
+    "id": "E2NzyQdqV7c",
+    "title": "Unsafe Consumption of APIs (UCA) - 2023 OWASP Top 10 API Security Risks"
+  },
+  {
+    "id": "GYyLnff2XRo",
+    "title": "MITRE ATT&CK Framework for Beginners"
+  },
+  {
+    "id": "2icKi2q6NS4",
+    "title": "The Anatomy of an Att&ck"
+  },
+  {
+    "id": "keeqnciDVOo",
+    "title": "Computer Networking in 100 Seconds"
+  },
+  {
+    "id": "bj-Yfakjllc",
+    "title": "Network Devices - Hosts, IP Addresses, Networks - Networking Fundamentals - Lesson 1a"
+  },
+  {
+    "id": "H7-NR3Q3BeI",
+    "title": "Hub, Bridge, Switch, Router - Network Devices - Networking Fundamentals - Lesson 1b"
+  },
+  {
+    "id": "LkolbURrtTs",
+    "title": "OSI Model: A Practical Perspective - Networking Fundamentals - Lesson 2a"
+  },
+  {
+    "id": "0aGqGKrRE0g",
+    "title": "OSI Model: A Practical Perspective - Part 2 - Networking Fundamentals - Lesson 2"
+  },
+  {
+    "id": "gYN2qN11-wE",
+    "title": "Everything Hosts do to speak on the Internet - Part 1 - Networking Fundamentals - Lesson 3"
+  },
+  {
+    "id": "JI9Zm2tbUoE",
+    "title": "Everything Hosts do to speak on the Internet - Part 2 - Networking Fundamentals - Lesson 3"
+  },
+  {
+    "id": "AhOU2eOpmX0",
+    "title": "Everything Switches do - Part 1 - Networking Fundamentals - Lesson 4"
+  },
+  {
+    "id": "G7GyWjJtjNs",
+    "title": "Everything Switches do - Part 2 - Networking Fundamentals - Lesson 4"
+  },
+  {
+    "id": "AzXys5kxpAM",
+    "title": "Everything Routers do - Part 1 - Networking Fundamentals - Lesson 5"
+  },
+  {
+    "id": "Ep-x_6kggKA",
+    "title": "Everything Routers do - Part 2 - How Routers forward Packets - Networking Fundamentals - Lesson 5"
+  },
+  {
+    "id": "zmxLg4jV0ts",
+    "title": "Router Hierarchies and Route Summarization - Networking Fundamentals - Lesson 5 - Part 3"
+  },
+  {
+    "id": "E5bSumTAHZE",
+    "title": "Network Protocols - ARP, FTP, SMTP, HTTP, SSL, TLS, HTTPS, DNS, DHCP - Networking Fundamentals - L6"
+  },
+  {
+    "id": "YJGGYKAV4pA",
+    "title": "How Data moves through the Internet - Networking Fundamentals"
+  },
+  {
+    "id": "ArXMa111x7A",
+    "title": "HTTP via Telnet to download an HTML page -- that's all your web browser does"
+  },
+  {
+    "id": "2iFFRqzX3yE",
+    "title": "OSI Model Layer 5, 6, and 7 -- Session, Presentation, & Application Layers -- what they actually do"
+  },
+  {
+    "id": "2OPVViV-GQk",
+    "title": "SQL Injections are scary!! (hacking tutorial for beginners)"
+  },
+  {
+    "id": "cbmBDiR6WaY",
+    "title": "XSS - Cross Site Scripting Explained"
+  },
+  {
+    "id": "vRBihr41JTo",
+    "title": "Cross Site Request Forgery - Computerphile"
+  },
+  {
+    "id": "L5l9lSnNMxg",
+    "title": "Cracking Websites with Cross Site Scripting - Computerphile"
+  },
+  {
+    "id": "zv0kZKC6GAM",
+    "title": "How The Self-Retweeting Tweet Worked: Cross-Site Scripting (XSS) and Twitter"
+  },
+  {
+    "id": "aKShnpOXqn0",
+    "title": "The Shellshock Bug In About Four Minutes"
+  },
+  {
+    "id": "BcDZS7iYNsA",
+    "title": "The Attack That Could Disrupt The Whole Internet - Computerphile"
+  },
+  {
+    "id": "z503nLsfe5s",
+    "title": "What is a DDoS Attack?"
+  },
+  {
+    "id": "2BldESGZKB8",
+    "title": "What is Hashing? Hash Functions Explained Simply"
+  },
+  {
+    "id": "rcNg9KsXuMc",
+    "title": "Hashing in Blockchain"
+  },
+  {
+    "id": "gTfNtop9vzM",
+    "title": "What is a Cryptographic Hashing Function? (Example + Purpose)"
+  },
+  {
+    "id": "wTC31ZI6QM4",
+    "title": "Bitcoin Mining in 4 Minutes - Computerphile"
+  },
+  {
+    "id": "mMxkxwPSfvo",
+    "title": "Probability in Bitcoin Mining: The Hashing Function"
+  },
+  {
+    "id": "yeLqe_gg2u0",
+    "title": "What is Multisig Technology?"
+  },
+  {
+    "id": "n8mbzU0X2nQ",
+    "title": "Malware: Difference Between Computer Viruses, Worms and Trojans"
+  },
+  {
+    "id": "3BbxUCOFX8g",
+    "title": "What is a Botnet?"
   }
 ]
