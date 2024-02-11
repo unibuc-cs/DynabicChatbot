@@ -8247,6 +8247,780 @@
     "Human-Computer Interaction"],
     "title": "Users Approach on Providing Feedback for Smart Home Devices Phase I",
     "url": "https://arxiv.org/abs/2312.11817"
-  }
+  },
   
+  {
+    "tags": ["Networking", "Machine Learning", "Pattern Recognition"],
+    "title": "NOAH: Learning Pairwise Object Category Attentions for Image Classification",
+    "url": "https://arxiv.org/abs/2402.02377"
+  },
+  {
+    "tags": ["Networking", "Machine Learning", "Pattern Recognition"],
+    "title": "Uncertainty-Aware Testing-Time Optimization for 3D Human Pose Estimation",
+    "url": "https://arxiv.org/abs/2402.02377"
+  },
+  {
+    "tags": ["Networking", "Machine Learning"],
+    "title": "Nonlinear subspace clustering by functional link neural networks",
+    "url": "https://arxiv.org/abs/2402.02051"
+  },
+  {
+    "tags": ["Networking", "Systems and Control"],
+    "title": "A Discrete-time Dynamical Model for Optimal Dispatching and Rebalancing of Autonomous Mobility-on-Demand Systems",
+    "url": "https://arxiv.org/abs/2402.01985"
+  },
+  {
+    "tags": ["Networking", "Systems and Control"],
+    "title": "Multi-Agent Reinforcement Learning for Offloading Cellular Communications with Cooperating UAVs",
+    "url": "https://arxiv.org/abs/2402.02957"
+  },
+  
+  {
+    "tags": ["Networking", "Machine Learning"],
+    "title": "Specialized Language Models with Cheap Inference from Limited Domain Data",
+    "url": "https://arxiv.org/abs/2402.01093"
+  },
+  {
+    "tags": ["Networking", "Machine Learning", "Quantum Physics", "Artificial Intelligence"],
+    "title": "Variational Quantum Circuits Enhanced Generative Adversarial Network",
+    "url": "https://arxiv.org/abs/2402.01791"
+  },
+  
+  {
+    "tags": ["Networking", "Neural and Evolutionary Computing", "Pattern Recognition"],
+    "title": "Benchmarking Spiking Neural Network Learning Methods with Varying Locality",
+    "url": "https://arxiv.org/abs/2402.01782"
+  },
+  
+  {
+    "tags": ["Networking", "Computational Physics"],
+    "title": "Enriched Physics-informed Neural Networks for Dynamic Poisson-Nernst-Planck Systems",
+    "url": "https://arxiv.org/abs/2402.01768"
+  },
+  
+  {
+    "tags": ["Networking", "Computation and Language", "Machine Learning"],
+    "title": "Systematic Literature Review: Computational Approaches for Humour Style Classification",
+    "url": "https://arxiv.org/abs/2402.01759"
+  },
+  {
+    "tags": ["Networking", "Networking and Internet Architecture", "Distributed"],
+    "title": "Edge Offloading in Smart Grid",
+    "url": "https://arxiv.org/abs/2402.01664"
+  },
+  {
+    "tags": ["Networking", "Machine Learning"],
+    "title": "A Dynamical Model of Neural Scaling Laws",
+    "url": "https://arxiv.org/abs/2402.01092"
+  },
+  {
+    "tags": ["SmartHome", "Systems and Control"],
+    "title": "Design and implementation of multiprotocol framework for residential prosumer incorporation in flexibility markets",
+    "url": "https://arxiv.org/abs/2402.03865"
+  },
+  {
+    "tags": ["SmartHome", "Systems and Control"],
+    "title": "Design and implementation of multiprotocol framework for residential prosumer incorporation in flexibility markets",
+    "url": "https://arxiv.org/abs/2402.03865"
+  },
+  {
+    "tags": ["SmartHome", "Networking and Internet Architecture"],
+    "title": "Review and Analysis of Recent Advances in Intelligent Network Softwarization for the Internet of Things",
+    "url": "https://arxiv.org/abs/2402.05270"
+  },
+  {
+    "tags": ["SmartHome", "Cryptography and Security"],
+    "title": "Secure Supervised Learning-Based Smart Home Authentication Framework",
+    "url": "https://arxiv.org/abs/2402.00568"
+  },
+  {
+    "tags": ["SmartHome", "Systems and Control"],
+    "title": "Education and Sustainability: a model for different Engineering degrees",
+    "url": "https://arxiv.org/abs/2402.04350"
+  },
+  {
+    "tags": ["SmartHome", "Computer Vision and Pattern Recognition"],
+    "title": "Digital Divides in Scene Recognition: Uncovering Socioeconomic Biases in Deep Learning Systems",
+    "url": "https://arxiv.org/abs/2401.13097"
+  },
+  {
+    "tags": ["SmartHome", "Signal Processing", "Networking and Internet Architecture"],
+    "title": "Device-Free Human State Estimation using UWB Multi-Static Radios",
+    "url": "https://arxiv.org/abs/2401.05410"
+  },
+  {
+    "tags": ["SmartHome", "Machine Learning"],
+    "title": "Transfer Learning in Human Activity Recognition: A Survey",
+    "url": "https://arxiv.org/abs/2401.10185"
+  },
+  {
+    "tags": ["SmartHome", "Signal Processing"],
+    "title": "An IoT system for smart building combining multiple mmWave FMCW radars applied to people counting",
+    "url": "https://arxiv.org/abs/2401.17949"
+  },
+  {
+    "tags": ["SmartHome", "Cryptography and Security"],
+    "title": "Automation of Smart Homes with Multiple Rule Sources",
+    "url": "https://arxiv.org/abs/2401.02451"
+  },
+  {
+    "tags": ["SmartHome", "Cryptography and Security"],
+    "title": "Optimal Control of Malware Propagation in IoT Networks",
+    "url": "https://arxiv.org/abs/2401.11076"
+  },
+  {
+    "tags": ["SmartHome", "Cryptography and Security"],
+    "title": "Privacy Engineering in Smart Home (SH) Systems: A Comprehensive Privacy Threat Analysis and Risk Management Approach",
+    "url": "https://arxiv.org/abs/2401.09519"
+  },
+  {
+    "tags": ["SmartHome", "Audio and Speech Processing"],
+    "title": "Transcending Controlled Environments Assessing the Transferability of ASRRobust NLU Models to Real-World Applications",
+    "url": "https://arxiv.org/abs/2401.09354"
+  },
+  {
+    "tags": ["SmartHome", "Robotics"],
+    "title": "Navigating the Unknown: Uncertainty-Aware Compute-in-Memory Autonomy of Edge Robotics",
+    "url": "https://arxiv.org/abs/2401.17481"
+  },
+  {
+    "tags": ["SmartHome", "Human-Computer Interaction"],
+    "title": "A Room With an Overview: Towards Meaningful Transparency for the Consumer Internet of Things",
+    "url": "https://arxiv.org/abs/2401.10669"
+  },
+  {
+    "tags": ["SmartHome", "Cryptography and Security"],
+    "title": "Conceptualising an Anti-Digital Forensics Kill Chain for Smart Homes",
+    "url": "https://arxiv.org/abs/2312.15215"
+  },
+  {
+    "tags": ["SmartHome", "Networking and Internet Architecture"],
+    "title": "An Intelligent Indoor Positioning Algorithm Based on Wi-Fi and Bluetooth Low Energy",
+    "url": "https://arxiv.org/abs/2312.15744"
+  },
+  {
+    "tags": ["SmartHome", "Systems and Control"],
+    "title": "A Literature Review on the Smart Wheelchair Systems",
+    "url": "https://arxiv.org/abs/2312.01285"
+  },
+  {
+    "tags": ["SmartHome", "Systems and Control"],
+    "title": "Security aspects in Smart Meters: Analysis and Prevention",
+    "url": "https://arxiv.org/abs/2312.08101"
+  },
+  {
+    "tags": ["SmartHome", "Systems and Control"],
+    "title": "A Literature Review on the Smart Wheelchair Systems",
+    "url": "https://arxiv.org/abs/2312.01285"
+  },
+  {
+    "tags": ["SmartHome", "Computer Vision and Pattern Recognition"],
+    "title": "Vision-Based Automatic Groceries Tracking System -- Smart Homes",
+    "url": "https://arxiv.org/abs/2312.12486"
+  },
+  {
+    "tags": ["SmartHome", "Human-Computer Interaction"],
+    "title": "Users Approach on Providing Feedback for Smart Home Devices",
+    "url": "https://arxiv.org/abs/2312.12466"
+  },
+  {
+    "tags": ["SmartHome", "Computer Vision and Pattern Recognition"],
+    "title": "Student Activity Recognition in Classroom Environments using Transfer Learning",
+    "url": "https://arxiv.org/abs/2312.00348"
+  },
+  {
+    "tags": ["SmartHome", "Human-Computer Interaction"],
+    "title": "Multi-channel Sensor Network Construction, Data Fusion and Challenges for Smart Home",
+    "url": "https://arxiv.org/abs/2312.16697"
+  },
+  {
+    "tags": ["SmartHome", "Information Retrieval"],
+    "title": "A Multi-Granularity-Aware Aspect Learning Model for Multi-Aspect Dense Retrieval",
+    "url": "https://arxiv.org/abs/2312.02538"
+  },
+  {
+    "tags": ["SmartHome", "Machine Learning"],
+    "title": "Conformer-Based Speech Recognition On Extreme Edge-Computing Devices",
+    "url": "https://arxiv.org/abs/2312.10359"
+  },
+  {
+    "tags": ["SmartHome", "Optimization and Control", "Networking and Internet Architecture", "Systems and Control"],
+    "title": "Network-Aware Asynchronous Distributed ADMM Algorithm for Peer-to-Peer Energy Trading",
+    "url": "https://arxiv.org/abs/2312.06976"
+  },
+  {
+    "tags": ["SmartHome", "Human-Computer Interaction"],
+    "title": "MoSen: Activity Modelling in Multiple-Occupancy Smart Homes",
+    "url": "https://arxiv.org/abs/2101.00235"
+  },
+  {
+    "tags": ["SmartHome", "Computers and Society"],
+    "title": "A Threat Modelling Approach to Analyze and Mitigate Botnet Attacks in Smart Home Use Case",
+    "url": "https://arxiv.org/abs/2101.02147"
+  },
+  {
+    "tags": ["SmartHome", "Cryptography and Security"],
+    "title": "Intrusion Detection Systems for Smart Home IoT Devices: Experimental Comparison Study",
+    "url": "https://arxiv.org/abs/2101.06519"
+  },
+  {
+    "tags": ["SmartHome", "Sound"],
+    "title": "Deep Attention-based Representation Learning for Heart Sound Classification",
+    "url": "https://arxiv.org/abs/2101.04979"
+  },
+  {
+    "tags": ["SmartHome", "Sound"],
+    "title": "Practical Speech Re-use Prevention in Voice-driven Services",
+    "url": "https://arxiv.org/abs/2101.04773"
+  },
+  {
+    "tags": ["SmartHome", "Machine Learning"],
+    "title": "Appliance Operation Modes Identification Using Cycles Clustering",
+    "url": "https://arxiv.org/abs/2101.10472"
+  },
+  {
+    "tags": ["SmartHome", "Cryptography and Security"],
+    "title": "Semantic Access Control for Privacy Management of Personal Sensing in Smart Cities",
+    "url": "https://arxiv.org/abs/2101.03209"
+  },
+  {
+    "tags": ["SmartHome", "Distributed, Parallel, and Cluster Computing"],
+    "title": "INetCEP: In-Network Complex Event Processing for Information-Centric Networking",
+    "url": "https://arxiv.org/abs/2012.05239"
+  },
+  {
+    "tags": ["SmartHome", "Machine Learning"],
+    "title": "Appliance-Level Monitoring with Micro-Moment Smart Plugs",
+    "url": "https://arxiv.org/abs/2012.05787"
+  },
+  {
+    "tags": ["SmartHome", "Computer Vision and Pattern Recognition"],
+    "title": "Faster and Accurate Compressed Video Action Recognition Straight from the Frequency Domain",
+    "url": "https://arxiv.org/abs/2012.13726"
+  },
+  {
+    "tags": ["SmartHome", "Signal Processing"],
+    "title": "Low-Cost Compact Theft-Detection System using MPU-6050 and Blynk IoT Platform",
+    "url": "https://arxiv.org/abs/2012.10293"
+  },
+  {
+    "tags": ["SmartHome", "Networking and Internet Architecture"],
+    "title": "Network Reconnaissance in IPv6-based Residential Broadband Networks",
+    "url": "https://arxiv.org/abs/2012.10652"
+  },
+  {
+    "tags": ["SmartHome", "Signal Processing"],
+    "title": "Fully Convolutional Network Bootstrapped by Word Encoding and Embedding for Activity Recognition in Smart Homes",
+    "url": "https://arxiv.org/abs/2012.02300"
+  },
+  {
+    "tags": ["SmartHome", "Human-Computer Interaction"],
+    "title": "Smart Refrigerator using Internet of Things and Android",
+    "url": "https://arxiv.org/abs/2012.10422"
+  },
+  {
+    "tags": ["SmartHome", "Networking and Internet Architecture"],
+    "title": "CoEdge: Cooperative DNN Inference with Adaptive Workload Partitioning over Heterogeneous Edge Devices",
+    "url": "https://arxiv.org/abs/2012.03257"
+  },
+  {
+    "tags": ["SmartHome", "Networking and Internet Architecture"],
+    "title": "FedHome: Cloud-Edge based Personalized Federated Learning for In-Home Health Monitoring",
+    "url": "https://arxiv.org/abs/2012.07450"
+  },
+  {
+    "tags": ["SmartHome", "Cryptography and Security"],
+    "title": "If This Context Then That Concern: Exploring users' concerns with IFTTT applets",
+    "url": "https://arxiv.org/abs/2012.12518"
+  },
+  {
+    "tags": ["SmartHome", "Computers and Society"],
+    "title": "Modernizing Data Control: Making Personal Digital Data Mutually Beneficial for Citizens and Industry",
+    "url": "https://arxiv.org/abs/2012.08571"
+  },
+  {
+    "tags": ["SmartHome", "Computers and Society"],
+    "title": "Green Internet of Things: The Next Generation Energy Efficient Internet of Things",
+    "url": "https://arxiv.org/abs/2012.01325"
+  },
+  {
+    "tags": ["SmartHome", "Signal Processing"],
+    "title": "Bayesian model of electrical heating disaggregation",
+    "url": "https://arxiv.org/abs/2011.05674"
+  },
+  {
+    "tags": ["SmartHome", "Cryptography and Security"],
+    "title": "Tokoin: A Coin-Based Accountable Access Control Scheme for Internet of Things",
+    "url": "https://arxiv.org/abs/2011.04919"
+  },
+  {
+    "tags": ["SmartHome", "Cryptography and Security"],
+    "title": "Privacy-Preserving and Efficient Data Collection Scheme for AMI Networks Using Deep Learning",
+    "url": "https://arxiv.org/abs/2011.03814"
+  },
+  {
+    "tags": ["SmartHome", "Computer Vision and Pattern Recognition"],
+    "title": "A Tree-structure Convolutional Neural Network for Temporal Features Exaction on Sensor-based Multi-resident Activity Recognition",
+    "url": "https://arxiv.org/abs/2011.03042"
+  },
+  {
+    "tags": ["SmartHome", "Cryptography and Security"],
+    "title": "IntegriScreen: Visually Supervising Remote User Interactions on Compromised Clients",
+    "url": "https://arxiv.org/abs/2011.13979"
+  },
+  {
+    "tags": ["SmartHome", "Distributed, Parallel, and Cluster Computing"],
+    "title": "A Demonstration of Smart Doorbell Design Using Federated Deep Learning",
+    "url": "https://arxiv.org/abs/2010.09687"
+  },
+  {
+    "tags": ["SmartHome", "Computers and Society"],
+    "title": "Design and Implementation of User-Friendly and Low-Cost Multiple-Application System for Smart City Using Microcontrollers",
+    "url": "https://arxiv.org/abs/2010.07016"
+  },
+  {
+    "tags": ["SmartHome", "Machine Learning"],
+    "title": "Avoiding Occupancy Detection from Smart Meter using Adversarial Machine Learning",
+    "url": "https://arxiv.org/abs/2010.12640"
+  },
+  {
+    "tags": ["SmartHome", "Computers and Society"],
+    "title": "Reshaping consumption habits by exploiting energy-related micro-moment recommendations: A case study",
+    "url": "https://arxiv.org/abs/2010.04693"
+  },
+  {
+    "tags": ["SmartHome", "Programming Languages"],
+    "title": "Advanced Join Patterns for the Actor Model based on CEP Techniques",
+    "url": "https://arxiv.org/abs/2010.16301"
+  },
+  {
+    "tags": ["SmartHome", "Networking and Internet Architecture"],
+    "title": "Threats and Corrective Measures for IoT Security with Observance of Cybercrime: A Survey",
+    "url": "https://arxiv.org/abs/2010.08793"
+  },
+  {
+    "tags": ["SmartHome", "Cryptography and Security"],
+    "title": "Smart Homes: Security Challenges and Privacy Concerns",
+    "url": "https://arxiv.org/abs/2010.15394"
+  },
+  {
+    "tags": ["SmartHome", "Human-Computer Interaction"],
+    "title": "iWash: A Smartwatch Handwashing Quality Assessment and Reminder System with Real-time Feedback in the Context of Infectious Disease",
+    "url": "https://arxiv.org/abs/2009.10317"
+  },
+  {
+    "tags": ["SmartHome", "Statistics Theory"],
+    "title": "Families of discrete circular distributions with some novel applications",
+    "url": "https://arxiv.org/abs/2009.05437"
+  },
+  {
+    "tags": ["SmartHome", "Cryptography and Security"],
+    "title": "The Dark (and Bright) Side of IoT: Attacks and Countermeasures for Identifying Smart Home Devices and Services",
+    "url": "https://arxiv.org/abs/2009.07672"
+  },
+  {
+    "tags": ["SmartHome", "Systems and Control"],
+    "title": "Identifying Grey-box Thermal Models with Bayesian Neural Networks",
+    "url": "https://arxiv.org/abs/2009.05889"
+  },
+  {
+    "tags": ["SmartHome", "Computers and Society"],
+    "title": "Data Privacy in IoT Equipped Future Smart Homes",
+    "url": "https://arxiv.org/abs/2008.04979"
+  },
+  {
+    "tags": ["SmartHome", "Computers and Society"],
+    "title": "Safety, Security, and Privacy Threats Posed by Accelerating Trends in the Internet of Things",
+    "url": "https://arxiv.org/abs/2008.00017"
+  },
+  {
+    "tags": ["SmartHome", "Human-Computer Interaction"],
+    "title": "Widely Reused and Shared, Infrequently Updated, and Sometimes Inherited: A Holistic View of PIN Authentication in Digital Lives and Beyond",
+    "url": "https://arxiv.org/abs/2008.10697"
+  },
+  {
+    "tags": ["SmartHome", "Computers and Society"],
+    "title": "IoT Based Smart Home using Blynk Framework",
+    "url": "https://arxiv.org/abs/2007.13714"
+  },
+  {
+    "tags": ["SmartHome", "Computers and Society"],
+    "title": "Future Smart Connected Communities to Fight COVID-19 Outbreak",
+    "url": "https://arxiv.org/abs/2007.10477"
+  },
+  {
+    "tags": ["SmartHome", "Cryptography and Security"],
+    "title": "Smart Home, security concerns of IoT",
+    "url": "https://arxiv.org/abs/2007.02628"
+  },
+  {
+    "tags": ["SmartHome", "Computation and Language"],
+    "title": "Product Title Generation for Conversational Systems using BERT",
+    "url": "https://arxiv.org/abs/2007.11768"
+  },
+  {
+    "tags": ["SmartHome", "Computers and Society"],
+    "title": "Fine-grained Conflict Detection of IoT Services",
+    "url": "https://arxiv.org/abs/2007.12487"
+  },
+  {
+    "tags": ["SmartHome", "Cryptography and Security"],
+    "title": "Learner's Dilemma: IoT Devices Training Strategies in Collaborative Deep Learning",
+    "url": "https://arxiv.org/abs/2007.15215"
+  },
+  {
+    "tags": ["SmartHome", "Cryptography and Security"],
+    "title": "Security in Wireless Sensor Networks: Issues and Challenges",
+    "url": "https://arxiv.org/abs/2007.05111"
+  },
+  {
+    "tags": ["SmartHome", "Computers and Society"],
+    "title": "MFED: A System for Monitoring Family Eating Dynamics",
+    "url": "https://arxiv.org/abs/2007.05831"
+  },
+  {
+    "tags": ["Blockchain", "Trading and Market Microstructure"],
+    "title": "Perpetual Future Contracts in Centralized and Decentralized Exchanges: Mechanism and Traders' Behavior",
+    "url": "https://arxiv.org/abs/2402.03953"
+  },
+  {
+    "tags": ["Blockchain", "Computational Engineering, Finance, and Science"],
+    "title": "Minimizing Block Incentive Volatility Through Verkle Tree-Based Dynamic Transaction Storage",
+    "url": "https://arxiv.org/abs/2402.04533"
+  },
+  {
+    "tags": ["Blockchain", "Logic in Computer Science"],
+    "title": "Semitopology: distributed collaborative action via topology, algebra, and logic",
+    "url": "https://arxiv.org/abs/2402.03253"
+  },
+  {
+    "tags": ["Blockchain", "Computer Science and Game Theory"],
+    "title": "No Transaction Fees? No Problem! Achieving Fairness in Transaction Fee Mechanism Design",
+    "url": "https://arxiv.org/abs/2402.04634"
+  },
+  {
+    "tags": ["Blockchain", "Machine Learning"],
+    "title": "Decentralized Blockchain-based Robust Multi-agent Multi-armed Bandit",
+    "url": "https://arxiv.org/abs/2402.04417"
+  },
+  {
+    "tags": ["Blockchain", "Pricing of Securities"],
+    "title": "Measuring the performance of investments in information security startups: An empirical analysis by cybersecurity sectors using Crunchbase data",
+    "url": "https://arxiv.org/abs/2402.04765"
+  },
+  {
+    "tags": ["Blockchain", "Multiagent Systems"],
+    "title": "LLM Multi-Agent Systems: Challenges and Open Problems",
+    "url": "https://arxiv.org/abs/2402.03578"
+  },
+  {
+    "tags": ["Blockchain", "Systems and Control"],
+    "title": "Aperiodic two-layer energy management system for community microgrids based on blockchain strategy",
+    "url": "https://arxiv.org/abs/2402.03880"
+  },
+  {
+    "tags": ["Blockchain", "Computational Engineering, Finance, and Science"],
+    "title": "A Survey on Blockchain in E-Government Services: Status and Challenges",
+    "url": "https://arxiv.org/abs/2402.02483"
+  },
+  {
+    "tags": ["Blockchain", "Distributed, Parallel, and Cluster Computing"],
+    "title": "Self-Balancing Semi-Hierarchical PCNs for CBDCs",
+    "url": "https://arxiv.org/abs/2401.11868"
+  },
+  {
+    "tags": ["Blockchain", "Computers and Society"],
+    "title": "Enabling Technologies for Web 3.0: A Comprehensive Survey",
+    "url": "https://arxiv.org/abs/2401.10901"
+  },
+  {
+    "tags": ["Blockchain", "Software Engineering"],
+    "title": "Automated Invariant Generation for Solidity Smart Contracts",
+    "url": "https://arxiv.org/abs/2401.00650"
+  },
+  {
+    "tags": ["Blockchain", "Social and Information Networks"],
+    "title": "The predictive power of the Blockhain transaction networks: Towards a new generation of network science market indicators",
+    "url": "https://arxiv.org/abs/2401.01379"
+  },
+  {
+    "tags": ["Blockchain", "Networking and Internet Architecture"],
+    "title": "A Comparative Examination of Network and Contract-Based Blockchain Storage Solutions for Decentralized Applications",
+    "url": "https://arxiv.org/abs/2401.07417"
+  },
+  {
+    "tags": ["Blockchain", "Information Theory"],
+    "title": "Game of Coding: Beyond Trusted Majorities",
+    "url": "https://arxiv.org/abs/2401.16643"
+  },
+  {
+    "tags": ["Blockchain", "Machine Learning"],
+    "title": "Detecting Anomalies in Blockchain Transactions using Machine Learning Classifiers and Explainability Analysis",
+    "url": "https://arxiv.org/abs/2401.03530"
+  },
+  {
+    "tags": ["Blockchain", "Machine Learning"],
+    "title": "Blockchain-enabled Trustworthy Federated Unlearning",
+    "url": "https://arxiv.org/abs/2401.15917"
+  },
+  {
+    "tags": ["Blockchain", "Computational Engineering, Finance, and Science"],
+    "title": "Exploring the Impact of Blockchain, AI, and ML on Financial Accounting Efficiency and Transformation",
+    "url": "https://arxiv.org/abs/2401.15715"
+  },
+  {
+    "tags": ["Blockchain", "Risk Management"],
+    "title": "Real-time Risk Metrics for Programmatic Stablecoin Crypto Asset-Liability Management (CALM)",
+    "url": "https://arxiv.org/abs/2401.13399"
+  },
+  {
+    "tags": ["Blockchain", "Logic in Computer Science"],
+    "title": "Monitoring the Future of Smart Contracts",
+    "url": "https://arxiv.org/abs/2401.12093"
+  },
+  {
+    "tags": ["Blockchain", "Networking and Internet Architecture"],
+    "title": "S-HIDRA: A blockchain and SDN domain-based architecture to orchestrate fog computing environments",
+    "url": "https://arxiv.org/abs/2401.16341"
+  },
+  {
+    "tags": ["Blockchain", "Distributed, Parallel, and Cluster Computing"],
+    "title": "Pilotfish: Distributed Transaction Execution for Lazy Blockchains",
+    "url": "https://arxiv.org/abs/2401.16292"
+  },
+  {
+    "tags": ["Blockchain", "Cryptography and Security"],
+    "title": "DFTWS for blockchain: Deterministic, Fair and Transparent Winner Selection",
+    "url": "https://arxiv.org/abs/2312.01951"
+  },
+  {
+    "tags": ["Blockchain", "Computer Science and Game Theory"],
+    "title": "Approval-Based Committee Voting in Practice: A Case Study of (Over-)Representation in the Polkadot Blockchain",
+    "url": "https://arxiv.org/abs/2312.11408"
+  },
+  {
+    "tags": ["Blockchain", "Systems and Control"],
+    "title": "Towards Blockchain-based Remote Management Systems for Patients with Movement Disorders",
+    "url": "https://arxiv.org/abs/2312.02556"
+  },
+  {
+    "tags": ["Blockchain", "Computer Science and Game Theory"],
+    "title": "Optimal Publishing Strategies on a Base Layer",
+    "url": "https://arxiv.org/abs/2312.06448"
+  },
+  {
+    "tags": ["Blockchain", "Distributed, Parallel, and Cluster Computing"],
+    "title": "ConChain: A Scheme for Contention-free and Attack Resilient BlockChain",
+    "url": "https://arxiv.org/abs/2312.08305"
+  },
+  {
+    "tags": ["Blockchain", "General Economics"],
+    "title": "Uniswap Daily Transaction Indices by Network",
+    "url": "https://arxiv.org/abs/2312.02660"
+  },
+  {
+    "tags": ["Blockchain", "Multiagent Systems"],
+    "title": "Distributed Autonomous Organizations as Public Services Supplying Platform",
+    "url": "https://arxiv.org/abs/2312.05189"
+  },
+  {
+    "tags": ["Blockchain", "Networking and Internet Architecture"],
+    "title": "Symbiotic Blockchain Consensus: Cognitive Backscatter Communications-enabled Wireless Blockchain Consensus",
+    "url": "https://arxiv.org/abs/2312.08899"
+  },
+  {
+    "tags": ["Blockchain", "Networking and Internet Architecture"],
+    "title": "Performance evaluation of Private and Public Blockchains for multi-cloud service federation",
+    "url": "https://arxiv.org/abs/2312.08510"
+  },
+  {
+    "tags": ["Blockchain", "Computer Science and Game Theory"],
+    "title": "Blockchain Participation Games",
+    "url": "https://arxiv.org/abs/2312.02769"
+  },
+  {
+    "tags": ["Blockchain", "Networking and Internet Architecture"],
+    "title": "Lennard Jones Token: a blockchain solution to scientific data curation",
+    "url": "https://arxiv.org/abs/2312.00902"
+  },
+  {
+    "tags": ["Blockchain", "Software Engineering"],
+    "title": "Gas Cost Analysis of Proxy and Diamond Patterns: Towards Trusted Smart Contract Engineering in EVM Blockchains",
+    "url": "https://arxiv.org/abs/2312.08945"
+  },
+  {
+    "tags": ["Blockchain", "Social and Information Networks"],
+    "title": "Designing Artificial Intelligence Equipped Social Decentralized Autonomous Organizations for Tackling Sextortion Cases Version 0.7",
+    "url": "https://arxiv.org/abs/2312.14090"
+  },
+  {
+    "tags": ["Blockchain", "Distributed, Parallel, and Cluster Computing"],
+    "title": "Quick Order Fairness: Implementation and Evaluation",
+    "url": "https://arxiv.org/abs/2312.13107"
+  },
+  {
+    "tags": ["Blockchain", "Networking and Internet Architecture"],
+    "title": "LLM-Twin: Mini-Giant Model-driven Beyond 5G Digital Twin Networking Framework with Semantic Secure Communication and Computation",
+    "url": "https://arxiv.org/abs/2312.10631"
+  },
+  {
+    "tags": ["Blockchain", "Computers and Society"],
+    "title": "Research on the Development of Blockchain-based Distributed Intelligent Healthcare Industry -- A Policy Analysis Perspective",
+    "url": "https://arxiv.org/abs/2312.12817"
+  },
+  {
+    "tags": ["Blockchain", "Networking and Internet Architecture"],
+    "title": "Driver Safety Reward with Cooperative Platooning using Blockchain",
+    "url": "https://arxiv.org/abs/2312.02164"
+  },
+  {
+    "tags": ["Blockchain", "Computational Engineering, Finance, and Science"],
+    "title": "Beyond the Surface: Advanced Wash Trading Detection in Decentralized NFT Markets",
+    "url": "https://arxiv.org/abs/2312.16603"
+  },
+  {
+    "tags": ["Blockchain", "Distributed, Parallel, and Cluster Computing"],
+    "title": "Dynamic Redundancy-aware Blockchain-based Partial Computation Offloading for the Metaverse in In-network Computing",
+    "url": "https://arxiv.org/abs/2311.01914"
+  },
+  {
+    "tags": ["Blockchain", "Machine Learning"],
+    "title": "Analysis of Information Propagation in Ethereum Network Using Combined Graph Attention Network and Reinforcement Learning to Optimize Network Efficiency and Scalability",
+    "url": "https://arxiv.org/abs/2311.01406"
+  },
+  {
+    "tags": ["Blockchain", "Machine Learning"],
+    "title": "A Blockchain Solution for Collaborative Machine Learning over IoT",
+    "url": "https://arxiv.org/abs/2311.14136"
+  },
+  {
+    "tags": ["Blockchain", "Machine Learning"],
+    "title": "Blockchain-Enabled Federated Learning Approach for Vehicular Networks",
+    "url": "https://arxiv.org/abs/2311.06372"
+  },
+  {
+    "tags": ["Blockchain", "Software Engineering"],
+    "title": "Aid Nexus : A Blockchain Based Financial Distribution System",
+    "url": "https://arxiv.org/abs/2311.08372"
+  },
+  {
+    "tags": ["Blockchain", "Statistical Finance"],
+    "title": "Forecasting Cryptocurrency Prices Using Deep Learning: Integrating Financial, Blockchain, and Text Data",
+    "url": "https://arxiv.org/abs/2311.14759"
+  },
+  {
+    "tags": ["Blockchain", "Machine Learning"],
+    "title": "VeryFL: A Verify Federated Learning Framework Embedded with Blockchain",
+    "url": "https://arxiv.org/abs/2311.15617"
+  },
+  {
+    "tags": ["Blockchain", "Social and Information Networks"],
+    "title": "Temporal and Geographical Analysis of Real Economic Activities in the Bitcoin Blockchain",
+    "url": "https://arxiv.org/abs/2307.08616"
+  },
+  {
+    "tags": ["Blockchain", "Social and Information Networks"],
+    "title": "Toward Blockchain-based Fashion Wearables in the Metaverse: the Case of Decentraland",
+    "url": "https://arxiv.org/abs/2307.01322"
+  },
+  {
+    "tags": ["Blockchain", "Computer Vision and Pattern Recognition"],
+    "title": "Dynamic Large Language Models on Blockchains",
+    "url": "https://arxiv.org/abs/2307.10549"
+  },
+  {
+    "tags": ["Blockchain", "Computer Science and Game Theory"],
+    "title": "Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness",
+    "url": "https://arxiv.org/abs/2307.15975"
+  },
+  {
+    "tags": ["Blockchain", "Machine Learning"],
+    "title": "Defending Against Malicious Behaviors in Federated Learning with Blockchain",
+    "url": "https://arxiv.org/abs/2307.00543"
+  },
+  {
+    "tags": ["Blockchain", "Software Engineering"],
+    "title": "A Blockchain-Based Framework for Distributed Agile Software Testing Life Cycle",
+    "url": "https://arxiv.org/abs/2307.07212"
+  },
+  {
+    "tags": ["Blockchain", "Computers and Society"],
+    "title": "Techno-Utopians, Scammers, and Bullshitters: The Promise and Peril of Web3 and Blockchain Technologies According to Operators and Venture Capital Investors",
+    "url": "https://arxiv.org/abs/2307.10222"
+  },
+  {
+    "tags": ["Blockchain", "Distributed, Parallel, and Cluster Computing"],
+    "title": "Development of a Blockchain-Based On-Demand Lightweight Commodity Delivery System",
+    "url": "https://arxiv.org/abs/2307.08050"
+  },
+  {
+    "tags": ["Blockchain", "Distributed, Parallel, and Cluster Computing"],
+    "title": "A Cross-Chain Query Language for Application-Level Interoperability Between Open and Permissionless Blockchains",
+    "url": "https://arxiv.org/abs/2307.00951"
+  },
+  {
+    "tags": ["Blockchain", "Machine Learning"],
+    "title": "A Federated learning model for Electric Energy management using Blockchain Technology",
+    "url": "https://arxiv.org/abs/2307.09080"
+  },
+  {
+    "tags": ["Blockchain", "Computers and Society"],
+    "title": "BlockCampus: A Blockchain-Based DApp for enhancing Student Engagement and Reward Mechanisms in an Academic Community for E-JUST University",
+    "url": "https://arxiv.org/abs/2307.11662"
+  },
+  {
+    "tags": ["Blockchain", "Machine Learning"],
+    "title": "Blockchain-Based Federated Learning: Incentivizing Data Sharing and Penalizing Dishonest Behavior",
+    "url": "https://arxiv.org/abs/2307.10492"
+  },
+  {
+    "tags": ["Blockchain", "Adaptation and Self-Organizing Systems"],
+    "title": "Impact of Black Swan Events on Ethereum Blockchain ERC20 Token Transaction Networks",
+    "url": "https://arxiv.org/abs/2307.14812"
+  },
+  {
+    "tags": ["Blockchain", "Machine Learning"],
+    "title": "PredictChain: Empowering Collaboration and Data Accessibility for AI in a Decentralized Blockchain-based Marketplace",
+    "url": "https://arxiv.org/abs/2307.15168"
+  },
+  {
+    "tags": ["Blockchain", "Software Engineering"],
+    "title": "Trust in Software Supply Chains: Blockchain-Enabled SBOM and the AIBOM Future",
+    "url": "https://arxiv.org/abs/2307.02088"
+  },
+  {
+    "tags": ["Blockchain", "Distributed, Parallel, and Cluster Computing"],
+    "title": "Blockchain Nodes are Heterogeneous and Your P2P Overlay Should be Too: PODS",
+    "url": "https://arxiv.org/abs/2306.16153"
+  },
+  {
+    "tags": ["Blockchain", "Computers and Society"],
+    "title": "Allowing Blockchain Loans with Low Collateral",
+    "url": "https://arxiv.org/abs/2306.11620"
+  },
+  {
+    "tags": ["Blockchain", "Machine Learning"],
+    "title": "A Survey on Blockchain-Based Federated Learning and Data Privacy",
+    "url": "https://arxiv.org/abs/2306.17338"
+  },
+  {
+    "tags": ["Blockchain", "Artificial Intelligence"],
+    "title": "A Distributed Computation Model Based on Federated Learning Integrates Heterogeneous models and Consortium Blockchain for Solving Time-Varying Problems",
+    "url": "https://arxiv.org/abs/2306.16023"
+  },
+  {
+    "tags": ["Blockchain", "Distributed, Parallel, and Cluster Computing"],
+    "title": "A Framework for Securing Health Information Using Blockchain in Cloud Hosted Cyber Physical Systems",
+    "url": "https://arxiv.org/abs/2306.17084"
+  },
+  {
+    "tags": ["Blockchain", "Computers and Society"],
+    "title": "Blockchain Technology in Higher Education Ecosystem: Unraveling the Good, Bad, and Ugly",
+    "url": "https://arxiv.org/abs/2306.04071"
+  },
+  {
+    "tags": ["Blockchain", "Software Engineering"],
+    "title": "A UML Profile for Bitcoin Blockchain",
+    "url": "https://arxiv.org/abs/2306.07054"
+  }
 ]
