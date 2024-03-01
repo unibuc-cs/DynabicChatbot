@@ -7726,7 +7726,7 @@
   
   {
     "tags": [
-          "Cryptography and Security "],
+          "Criptography", "Security"],
         "title": "Artificial Intelligence for Cybersecurity: Threats, Attacks and Mitigation",
         "url": " https://arxiv.org/abs/2209.13454"
   },
@@ -8247,6 +8247,1049 @@
     "Human-Computer Interaction"],
     "title": "Users Approach on Providing Feedback for Smart Home Devices Phase I",
     "url": "https://arxiv.org/abs/2312.11817"
+  },
+
+
+
+  {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Transaction Capacity, Security and Latency in Blockchains",
+    "url": "https://arxiv.org/abs/2402.10138"
+  },
+
+
+    {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "On the Domain Generalizability of RF Fingerprints Through Multifractal Dimension Representation",
+    "url": "https://arxiv.org/abs/2402.10044"
+  },
+
+   {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Systematic Literature Review of EM-SCA Attacks on Encryption",
+    "url": "https://arxiv.org/abs/2402.10030"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "TSTEM: A Cognitive Platform for Collecting Cyber Threat Intelligence in the Wild",
+    "url": "https://arxiv.org/abs/2402.09973"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "JustSTART: How to Find an RSA Authentication Bypass on Xilinx UltraScale(+) with Fuzzing",
+    "url": "https://arxiv.org/abs/2402.09845"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Enhancing Cybersecurity Resilience in Finance with Deep Learning for Advanced Threat Detection",
+    "url": "https://arxiv.org/abs/2402.09820"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "AbuseGPT: Abuse of Generative AI ChatBots to Create Smishing Campaigns",
+    "url": "https://arxiv.org/abs/2402.09728"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "An advanced data fabric architecture leveraging homomorphic encryption and federated learning",
+    "url": "https://arxiv.org/abs/2402.09795"
+  }, {
+
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Enhancing SCADA Security: Developing a Host-Based Intrusion Detection System to Safeguard Against Cyberattacks",
+    "url": "https://arxiv.org/abs/2402.14599"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "{A New Hope}: Contextual Privacy Policies for Mobile Applications and An Approach Toward Automated Generation",
+    "url": "https://arxiv.org/abs/2402.14544"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Closed-Form Bounds for DP-SGD against Record-level Inference",
+    "url": "https://arxiv.org/abs/2402.14397"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Exploring Emerging Trends in 5G Malicious Traffic Analysis and Incremental Learning Intrusion Detection Strategies",
+    "url": "https://arxiv.org/abs/2402.14353"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Homomorphic Encryption Based on Post-Quantum Cryptography",
+    "url": "https://arxiv.org/abs/2402.14193"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "QuantTM: Business-Centric Threat Quantification for Risk Management and Cyber Resilience",
+    "url": "https://arxiv.org/abs/2402.14140"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Fake Resume Attacks: Data Poisoning on Online Job Platforms",
+    "url": "https://arxiv.org/abs/2402.14124"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Pseudorandom unitaries with non-adaptive security",
+    "url": "https://arxiv.org/abs/2402.14803"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Federated Complex Qeury Answering",
+    "url": "https://arxiv.org/abs/2402.14609"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Federated Learning on Transcriptomic Data: Model Quality and Performance Trade-Offs",
+    "url": "https://arxiv.org/abs/2402.10138"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "ModSRAM: Algorithm-Hardware Co-Design for Large Number Modular Multiplication in SRAM",
+    "url": "https://arxiv.org/abs/2402.14152"
+  },   {
+    "tags": [
+    "Cryptography and Security"],
+    "title": "Universal Vulnerabilities in Large Language Models: Backdoor Attacks for In-context Learning",
+    "url": "https://arxiv.org/abs/2401.05949"
+  },
+  
+  {
+    "tags": [
+    "Cryptography and Security"],
+    "title": "Distilling Adversarial Robustness Using Heterogeneous Teachers",
+    "url": "https://arxiv.org/abs/2402.15586"
+  },{
+    "tags": [
+          "Computers and Society"],
+        "title": "Differentially Private Fair Binary Classifications",
+        "url": "https://arxiv.org/abs/2402.15603"
+  },
+  
+  {
+    "tags": [
+          "Cryptography and Security"],
+        "title": "Optimal Zero-Shot Detector for Multi-Armed Attacks",
+        "url": "https://arxiv.org/abs/2402.15808"
+  },{
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Protocols for Quantum Weak Coin Flipping",
+    "url": "https://arxiv.org/abs/2402.15855"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Generalization or Memorization: Data Contamination and Trustworthy Evaluation for Large Language Models",
+    "url": "https://arxiv.org/abs/2402.15938"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Honeybee: Decentralized Peer Sampling with Verifiable Random Walks for Blockchain Data Sharding",
+    "url": "https://arxiv.org/abs/2402.16201"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Analysis of Embeddings Learned by End-to-End Machine Learning Eye Movement-driven Biometrics Pipeline",
+    "url": "https://arxiv.org/abs/2402.16399"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "LLM-based Privacy Data Augmentation Guided by Knowledge Distillation with a Distribution Tutor for Medical Text Classification",
+    "url": "https://arxiv.org/abs/2402.16515"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "CodeChameleon: Personalized Encryption Framework for Jailbreaking Large Language Models",
+    "url": "https://arxiv.org/abs/2402.16717"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "On the Growth of Mistakes in Differentially Private Online Learning: A Lower Bound Perspective",
+    "url": "https://arxiv.org/abs/2402.16778"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Rate-Optimal Rank Aggregation with Private Pairwise Rankings",
+    "url": "https://arxiv.org/abs/2402.16792"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Fast Adversarial Attacks on Language Models In One GPU Minute",
+    "url": "https://arxiv.org/abs/2402.15570"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Reinforcement Learning-Based Approaches for Enhancing Security and Resilience in Smart Control: A Survey on Attack and Defense Methods",
+    "url": "https://arxiv.org/abs/2402.15617"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "LLMs Can Defend Themselves Against Jailbreaking in a Practical Manner: A Vision Paper",
+    "url": "https://arxiv.org/abs/2402.15727"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Privacy-Preserving State Estimation in the Presence of Eavesdroppers: A Survey",
+    "url": "https://arxiv.org/abs/2402.15738"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Cryptanalysis and improvement of multimodal data encryption by machine-learning-based system",
+    "url": "https://arxiv.org/abs/2402.15779"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Holding Secrets Accountable: Auditing Privacy-Preserving Machine Learning",
+    "url": "https://arxiv.org/abs/2402.15780"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Gait-Based Privacy Protection for Smart Wearable Devices",
+    "url": "https://arxiv.org/abs/2402.15797"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "BETA-UAV: Blockchain-based Efficient Authentication for Secure UAV Communication",
+    "url": "https://arxiv.org/abs/2402.15817"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "A New Secure Memory System for Efficient Data Protection and Access Pattern Obfuscation",
+    "url": "https://arxiv.org/abs/2402.15824"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "PRP: Propagating Universal Perturbations to Attack Large Language Model Guard-Rails",
+    "url": "https://arxiv.org/abs/2402.15911"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Attention-GAN for Anomaly Detection: A Cutting-Edge Approach to Cybersecurity Threat Management",
+    "url": "https://arxiv.org/abs/2402.15945"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Post-Quantum Cryptography Neural Network",
+    "url": "https://arxiv.org/abs/2402.16002"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "FedFDP: Federated Learning with Fairness and Differential Privacy",
+    "url": "https://arxiv.org/abs/2402.16028"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "LuaTaint: A Static Taint Analysis System for Web Interface Framework Vulnerability of IoT Devices",
+    "url": "https://arxiv.org/abs/2402.16043"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "How to Privately Tune Hyperparameters in Federated Learning? Insights from a Benchmark Study",
+    "url": "https://arxiv.org/abs/2402.16087"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Bistochastically private release of data streams with zero delay",
+    "url": "https://arxiv.org/abs/2402.16094"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "chainBoost: A Secure Performance Booster for Blockchain-based Resource Markets",
+    "url": "https://arxiv.org/abs/2402.16095"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Attacking LLM Watermarks by Exploiting Their Strengths",
+    "url": "https://arxiv.org/abs/2402.16187"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Card-Based Overwriting Protocol for Equality Function and Applications",
+    "url": "https://arxiv.org/abs/2402.16290"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Decentralized Federated Unlearning on Blockchain",
+    "url": "https://arxiv.org/abs/2402.16294 "
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Communication Optimal Unbalanced Private Set Union",
+    "url": "https://arxiv.org/abs/2402.16393"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Investigating Deep Watermark Security: An Adversarial Transferability Perspective",
+    "url": "https://arxiv.org/abs/2402.16397"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Improving behavior based authentication against adversarial attack using XAI",
+    "url": "https://arxiv.org/abs/2402.16430"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "SAND: Decoupling Sanitization from Fuzzing for Low Overhead",
+    "url": "https://arxiv.org/abs/2402.16497"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs",
+    "url": "https://arxiv.org/abs/2402.16735"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Generative Models are Self-Watermarked: Declaring Model Authentication through Re-Generation",
+    "url": "https://arxiv.org/abs/2402.16889"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "FedReview: A Review Mechanism for Rejecting Poisoned Updates in Federated Learning",
+    "url": "https://arxiv.org/abs/2402.16934"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Adversarial Perturbations of Physical Signals",
+    "url": "https://arxiv.org/abs/2402.17104"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Robustness-Congruent Adversarial Training for Secure Machine Learning Model Updates",
+    "url": "https://arxiv.org/abs/2402.17390"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "PureLottery: Fair and Bias-Resistant Leader Election with a Novel Single-Elimination Tournament Algorithm",
+    "url": "https://arxiv.org/abs/2402.17459"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "A Holistic Approach for Bitcoin Confirmation Times & Optimal Fee Selection",
+    "url": "https://arxiv.org/abs/2402.17474"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)",
+    "url": "https://arxiv.org/abs/2402.16893"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "On Trojan Signatures in Large Language Models of Code",
+    "url": "https://arxiv.org/abs/2402.16896"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "An Adversarial Robustness Benchmark for Enterprise Network Intrusion Detection",
+    "url": "https://arxiv.org/abs/2402.16912"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers",
+    "url": "https://arxiv.org/abs/2402.16914"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "On the (In)feasibility of ML Backdoor Detection as an Hypothesis Testing Problem",
+    "url": "https://arxiv.org/abs/2402.16926"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "WIPI: A New Web Threat for LLM-Driven Web Agents",
+    "url": "https://arxiv.org/abs/2402.16965"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "A Survey of Large Language Models in Cybersecurity",
+    "url": "https://arxiv.org/abs/2402.16968"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Synthesizing Tight Privacy and Accuracy Bounds via Weighted Model Counting",
+    "url": "https://arxiv.org/abs/2402.16982"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Pandora's White-Box: Increased Training Data Leakage in Open LLMs",
+    "url": "https://arxiv.org/abs/2402.17012"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Deep Learning Algorithms Used in Intrusion Detection Systems -- A Review",
+    "url": "https://arxiv.org/abs/2402.17020"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "An Investigation into the Performances of the State-of-the-art Machine Learning Approaches for Various Cyber-attack Detection: A Survey",
+    "url": "https://arxiv.org/abs/2402.17045"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "A Pioneering Study and An Innovative Information Theory-based Approach to Enhance The Transparency in Phishing Detection",
+    "url": "https://arxiv.org/abs/2402.17092"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "AI-Driven Anonymization: Protecting Personal Data Privacy While Leveraging Machine Learning",
+    "url": "https://arxiv.org/abs/2402.17191"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Purified and Unified Steganographic Network",
+    "url": "https://arxiv.org/abs/2402.17210"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Blockchain for Finance: A Survey",
+    "url": "https://arxiv.org/abs/2402.17219"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Time-Restricted Double-Spending Attack on PoW-based Blockchains",
+    "url": "https://arxiv.org/abs/2402.17223"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Chain-of-Thought Prompting of Large Language Models for Discovering and Fixing Software Vulnerabilities",
+    "url": "https://arxiv.org/abs/2402.17230"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "HardTaint: Production-Run Dynamic Taint Analysis via Selective Hardware Tracing",
+    "url": "https://arxiv.org/abs/2402.172412"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Deep Learning-Based Speech and Vision Synthesis to Improve Phishing Attack Detection through a Multi-layer Adaptive Framework",
+    "url": "https://arxiv.org/abs/2402.17249"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "A Scalable Multi-Layered Blockchain Architecture for Enhanced EHR Sharing and Drug Supply Chain Management",
+    "url": "https://arxiv.org/abs/2402.17342"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Towards an Enforceable GDPR Specification",
+    "url": "https://arxiv.org/abs/2402.17350"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Model X-ray:Detect Backdoored Models via Decision Boundary",
+    "url": "https://arxiv.org/abs/2402.17465"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Complexity Assessment of Analog Security Primitives Using the Disentropy of Autocorrelation",
+    "url": "https://arxiv.org/abs/2402.17488"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Securing OPEN-RAN Equipment Using Blockchain-Based Supply Chain Verification",
+    "url": "https://arxiv.org/abs/2402.17632"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "SoK: Cryptocurrency Wallets -- A Security Review and Classification based on Authentication Factors",
+    "url": "https://arxiv.org/abs/2402.17659"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "On Central Primitives for Quantum Cryptography with Classical Communication",
+    "url": "https://arxiv.org/abs/2402.17715"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Exploring the Market Dynamics of Liquid Staking Derivatives (LSDs)",
+    "url": "https://arxiv.org/abs/2402.17748"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Follow My Instruction and Spill the Beans: Scalable Data Extraction from Retrieval-Augmented Generation Systems",
+    "url": "https://arxiv.org/abs/2402.17840"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Tighter Bounds for Local Differentially Private Core Decomposition and Densest Subgraph",
+    "url": "https://arxiv.org/abs/2402.18020"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "PureLottery: Fair and Bias-Resistant Leader Election with a Novel Single-Elimination Tournament Algorithm",
+    "url": "https://arxiv.org/abs/2402.17459"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "A Holistic Approach for Bitcoin Confirmation Times & Optimal Fee Selection",
+    "url": "https://arxiv.org/abs/2402.17474"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)",
+    "url": "https://arxiv.org/abs/2402.16893"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "On Trojan Signatures in Large Language Models of Code",
+    "url": "https://arxiv.org/abs/2402.16896"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "An Adversarial Robustness Benchmark for Enterprise Network Intrusion Detection",
+    "url": "https://arxiv.org/abs/2402.16912"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers",
+    "url": "https://arxiv.org/abs/2402.16914"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "On the (In)feasibility of ML Backdoor Detection as an Hypothesis Testing Problem",
+    "url": "https://arxiv.org/abs/2402.16926"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "WIPI: A New Web Threat for LLM-Driven Web Agents",
+    "url": "https://arxiv.org/abs/2402.16965"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "A Survey of Large Language Models in Cybersecurity",
+    "url": "https://arxiv.org/abs/2402.16968"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Synthesizing Tight Privacy and Accuracy Bounds via Weighted Model Counting",
+    "url": "https://arxiv.org/abs/2402.16982"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Pandora's White-Box: Increased Training Data Leakage in Open LLMs",
+    "url": "https://arxiv.org/abs/2402.17012"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Deep Learning Algorithms Used in Intrusion Detection Systems -- A Review",
+    "url": "https://arxiv.org/abs/2402.17020"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "An Investigation into the Performances of the State-of-the-art Machine Learning Approaches for Various Cyber-attack Detection: A Survey",
+    "url": "https://arxiv.org/abs/2402.17045"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "A Pioneering Study and An Innovative Information Theory-based Approach to Enhance The Transparency in Phishing Detection",
+    "url": "https://arxiv.org/abs/2402.17092"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "AI-Driven Anonymization: Protecting Personal Data Privacy While Leveraging Machine Learning",
+    "url": "https://arxiv.org/abs/2402.17191"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Purified and Unified Steganographic Network",
+    "url": "https://arxiv.org/abs/2402.17210"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Blockchain for Finance: A Survey",
+    "url": "https://arxiv.org/abs/2402.17219"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Time-Restricted Double-Spending Attack on PoW-based Blockchains",
+    "url": "https://arxiv.org/abs/2402.17223"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Chain-of-Thought Prompting of Large Language Models for Discovering and Fixing Software Vulnerabilities",
+    "url": "https://arxiv.org/abs/2402.17230"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "HardTaint: Production-Run Dynamic Taint Analysis via Selective Hardware Tracing",
+    "url": "https://arxiv.org/abs/2402.17241"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Deep Learning-Based Speech and Vision Synthesis to Improve Phishing Attack Detection through a Multi-layer Adaptive Framework",
+    "url": "https://arxiv.org/abs/2402.17249"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "A Scalable Multi-Layered Blockchain Architecture for Enhanced EHR Sharing and Drug Supply Chain Management",
+    "url": "https://arxiv.org/abs/2402.17342"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Towards an Enforceable GDPR Specification",
+    "url": "https://arxiv.org/abs/2402.17350"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Model X-ray:Detect Backdoored Models via Decision Boundary",
+    "url": "https://arxiv.org/abs/2402.17465"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Complexity Assessment of Analog Security Primitives Using the Disentropy of Autocorrelation",
+    "url": "https://arxiv.org/abs/2402.17488"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Securing OPEN-RAN Equipment Using Blockchain-Based Supply Chain Verification",
+    "url": "https://arxiv.org/abs/2108.17632"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "SoK: Cryptocurrency Wallets -- A Security Review and Classification based on Authentication Factors",
+    "url": "https://arxiv.org/abs/2402.17659"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "On Central Primitives for Quantum Cryptography with Classical Communication",
+    "url": "https://arxiv.org/abs/2402.17715"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Exploring the Market Dynamics of Liquid Staking Derivatives (LSDs)",
+    "url": "https://arxiv.org/abs/2402.17748"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Follow My Instruction and Spill the Beans: Scalable Data Extraction from Retrieval-Augmented Generation Systems",
+    "url": "https://arxiv.org/abs/2402.17840"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Tighter Bounds for Local Differentially Private Core Decomposition and Densest Subgraph",
+    "url": "https://arxiv.org/abs/2402.18020"
+  },
+  {
+    "tags": [
+      "Criptography", "Security"],
+    "title": "Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models",
+    "url": "https://arxiv.org/abs/2402.18059"
+  },
+
+
+    {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "AI-assisted Tagging of Deepfake Audio Calls using Challenge-Response",
+    "url": "https://arxiv.org/abs/2402.18085"
+  },
+
+   {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Modeling and Analysis of Crypto-Backed Over-Collateralized Stable Derivatives in DeFi",
+    "url": "https://arxiv.org/abs/2402.18119"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Catastrophic Overfitting: A Potential Blessing in Disguise",
+    "url": "https://arxiv.org/abs/2402.18211"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "DevPhish: Exploring Social Engineering in Software Supply Chain Attacks on Developers",
+    "url": "https://arxiv.org/abs/2402.18401"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Model Predictive Control with adaptive resilience for Denial-of-Service Attacks mitigation on a Regulated Dam",
+    "url": "https://arxiv.org/abs/2402.18516"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "The Seeker's Dilemma: Realistic Formulation and Benchmarking for Hardware Trojan Detection",
+    "url": "https://arxiv.org/abs/2402.17918"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "EmMark: Robust Watermarks for IP Protection of Embedded Quantized Large Language Models",
+    "url": "https://arxiv.org/abs/2402.17938"
+  }, {
+
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Exploring Advanced Methodologies in Security Evaluation for LLMs",
+    "url": "https://arxiv.org/abs/2402.17970"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Efficient Fault Detection Architectures for Modular Exponentiation Targeting Cryptographic Applications Benchmarked on FPGAs",
+    "url": "https://arxiv.org/abs/2402.18033"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Performance modeling of public permissionless blockchains: A survey",
+    "url": "https://arxiv.org/abs/2402.18049"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "ChatSpamDetector: Leveraging Large Language Models for Effective Phishing Email Detection",
+    "url": "https://arxiv.org/abs/2402.18093"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction",
+    "url": "https://arxiv.org/abs/2402.18104"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "VulMCI : Code Splicing-based Pixel-row Oversampling for More Continuous Vulnerability Image Generation",
+    "url": "https://arxiv.org/abs/2402.18189"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Quantification and Modeling of Broken Links Prevalence in Hyper Traffic Websites Homepages",
+    "url": "https://arxiv.org/abs/2402.18301"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Living-off-The-Land Reverse-Shell Detection by Informed Data Augmentation",
+    "url": "https://arxiv.org/abs/2402.18329"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Token-based Vehicular Security System (TVSS): Scalable, Secure, Low-latency Public Key Infrastructure for Connected Vehicles",
+    "url": "https://arxiv.org/abs/2402.18365"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "TrustRate: A Decentralized Platform for Hijack-Resistant Anonymous Reviews",
+    "url": "https://arxiv.org/abs/2402.18386"
+  }, {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Smishing Dataset I: Phishing SMS Dataset from Smishtank.com",
+    "url": "https://arxiv.org/abs/2402.18430"
+  },
+  {
+    "tags": [
+    "Networking", "Internet Architecture"],
+    "title": "Eavesdropping with Intelligent Reflective Surfaces: Near-Optimal Configuration Cycling",
+    "url": "https://arxiv.org/abs/2402.14737"
+  },
+  {
+    "tags": [
+    "Networking", "Internet Architecture"],
+    "title": "Joint AP-UE Association and Power Factor Optimization for Distributed Massive MIMO",
+    "url": "https://arxiv.org/abs/2402.14693"
+  },
+  {
+    "tags": [
+    "Networking", "Internet Architecture"],
+    "title": "ConPA: A Contention-free Mechanism with Power Adaptation for Beyond Listen-Before-Talk",
+    "url": "https://arxiv.org/abs/2402.14667"
+  },
+  {
+    "tags": [
+    "Networking", "Internet Architecture"],
+    "title": "Measuring NAT64 Usage in the Wild",
+    "url": "https://arxiv.org/abs/2402.14632"
+  },
+  {
+    "tags": [
+    "Networking", "Internet Architecture"],
+    "title": "Enhancement of High-definition Map Update Service Through Coverage-aware and Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2402.14582"
+  },
+  {
+    "tags": [
+    "Networking", "Internet Architecture"],
+    "title": "Edge Caching Based on Deep Reinforcement Learning and Transfer Learning",
+    "url": "https://arxiv.org/abs/2402.14576"
+  },
+  {
+    "tags": [
+    "Networking", "Internet Architecture"],
+    "title": "Cluster-then-Match: Efficient Management of Human-Centric, Cell-Less 6G Networks",
+    "url": "https://arxiv.org/abs/2402.14344"
+  },
+  {
+    "tags": [
+    "Networking", "Internet Architecture"],
+    "title": "Stability of P2P Networks Under Greedy Peering (Full Version)",
+    "url": "https://arxiv.org/abs/2402.14666"
+  },
+  {
+    "tags": [
+    "Networking", "Internet Architecture"],
+    "title": "Multitier Service Migration Framework Based on Mobility Prediction in Mobile Edge Computing",
+    "url": "https://arxiv.org/abs/2402.13529"
+  },
+  {
+    "tags": [
+    "Networking", "Internet Architecture"],
+    "title": "DistriFS: A Platform and User Agnostic Approach to File Distribution",
+    "url": "https://arxiv.org/abs/2402.13387"
+  },
+  {
+    "tags": [
+    "Networking", "Internet Architecture"],
+    "title": "A Lightweight Machine Learning Approach for Delay-Aware Cell-Switching in 6G HAPS Networks",
+    "url": "https://arxiv.org/abs/2402.13096"
+  },
+   {
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Verifiable Boosted Tree Ensembles",
+    "url": "https://arxiv.org/abs/2402.14988"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "On the Duality Between Sharpness-Aware Minimization and Adversarial Training",
+    "url": "https://arxiv.org/abs/2402.15152"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Machine Unlearning of Pre-trained Large Language Models",
+    "url": "https://arxiv.org/abs/2402.15159"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Break the Breakout: Reinventing LM Defense Against Jailbreak Attacks with Self-Refinement",
+    "url": "https://arxiv.org/abs/2402.15180"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "On the composable security of weak coin flipping",
+    "url": "https://arxiv.org/abs/2402.15233"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "How (un)ethical are instruction-centric responses of LLMs? Unveiling the vulnerabilities of safety guardrails to harmful queries",
+    "url": "https://arxiv.org/abs/2402.15302"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "The Wolf Within: Covert Injection of Malice into MLLM Societies via an MLLM Operative",
+    "url": "https://arxiv.org/abs/2402.14859"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "SISSA: Real-time Monitoring of Hardware Functional Safety and Cybersecurity with In-vehicle SOME/IP Ethernet Traffic",
+    "url": "https://arxiv.org/abs/2402.14862"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Using Harmonics for Low-Cost Jamming",
+    "url": "https://arxiv.org/abs/2402.14869"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Double-I Watermark: Protecting Model Copyright for LLM Fine-tuning",
+    "url": "https://arxiv.org/abs/2402.14883"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "BIONIB: Blockchain-based IoT using Novelty Index in Bridge Health Monitoring",
+    "url": "https://arxiv.org/abs/2402.14902"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Watermarking Makes Language Models Radioactive",
+    "url": "https://arxiv.org/abs/2402.14904"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Mitigating Fine-tuning Jailbreak Attack with Backdoor Enhanced Alignment",
+    "url": "https://arxiv.org/abs/2402.14968"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Watermarking Makes Language Models Radioactive",
+    "url": "https://arxiv.org/abs/2402.14904"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Mitigating Fine-tuning Jailbreak Attack with Backdoor Enhanced Alignment",
+    "url": "https://arxiv.org/abs/2402.14968"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Mudjacking: Patching Backdoor Vulnerabilities in Foundation Models",
+    "url": "https://arxiv.org/abs/2402.14977"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "opp/ai: Optimistic Privacy-Preserving AI on Blockchain",
+    "url": "https://arxiv.org/abs/2402.15006"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "A First Look at GPT Apps: Landscape and Vulnerability",
+    "url": "https://arxiv.org/abs/2402.15105"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Chu-ko-nu: A Reliable, Efficient, and Anonymously Authentication-Enabled Realization for Multi-Round Secure Aggregation in Federated Learning",
+    "url": "https://arxiv.org/abs/2402.15111"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "TREC: APT Tactic / Technique Recognition via Few-Shot Provenance Subgraph Learning",
+    "url": "https://arxiv.org/abs/2402.15147"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "BSPA: Exploring Black-box Stealthy Prompt Attacks against Image Generators",
+    "url": "https://arxiv.org/abs/2402.15218"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "A Robust Defense against Adversarial Attacks on Deep Learning-based Malware Detectors via (De)Randomized Smoothing",
+    "url": "https://arxiv.org/abs/2402.15267"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Trustworthy confidential virtual machines for the masses",
+    "url": "https://arxiv.org/abs/2402.15277"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "SoK: What don't we know? Understanding Security Vulnerabilities in SNARKs",
+    "url": "https://arxiv.org/abs/2402.15293"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "A Blockchain-Enabled Framework of UAV Coordination for Post-Disaster Networks",
+    "url": "https://arxiv.org/abs/2402.15331"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "On the Usability of Next-Generation Authentication: A Study on Eye Movement and Brainwave-based Mechanisms",
+    "url": "https://arxiv.org/abs/2402.15388"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Prime+Retouch: When Cache is Locked and Leaked",
+    "url": "https://arxiv.org/abs/2402.15425"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Selective disclosure of claims from multiple digital credentials ",
+    "url": "https://arxiv.org/abs/2402.15447"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "Privacy-Enhancing Collaborative Information Sharing through Federated Learning -- A Case of the Insurance Industry",
+    "url": "https://arxiv.org/abs/2402.14983"
+  },{
+    "tags": [
+    "Criptography", "Security"],
+    "title": "SoK: Analyzing Adversarial Examples: A Framework to Study Adversary Knowledge",
+    "url": "https://arxiv.org/abs/2402.14937"
   }
+
+  
   
 ]
